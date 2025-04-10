@@ -4,3 +4,4 @@
 A demonstration of Lighthouse and a11y accesibility
 
 Pages Hosting: 
+https://patrickfrankaiu.github.io/a11yhhotmessfixed/
